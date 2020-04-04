@@ -1,5 +1,5 @@
 # ml
-Machine Learnng - Group Assignments 1,2,3
+Machine Learnng - Group Assignments 1, 2, 3
 
 Group Assignment 1: 
 Predicting Wine Quality with k-Nearest Neighbours
