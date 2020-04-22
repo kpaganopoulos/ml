@@ -50,8 +50,8 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/00228/
 and follow the steps below to build a Naiive Bayes spam filter.
 1. Load the data into a Python data frame.
 2. Pre-process the SMS messages: Remove all punctuation and numbers from the SMS
-messages, and change all messages to lower case. (Please provide the Python code that
-achieves this!)
+messages, and change all messages to lower case (Please provide the Python code that
+achieves this).
 3. Shuffle the messages and split them into a training set (2,500 messages), a validation
 set (1,000 messages) and a test set (all remaining messages).
 4. While Python's SciKit-Learn library has a Naiive Bayes classifier, it works with continuous
